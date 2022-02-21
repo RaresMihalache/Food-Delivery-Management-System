@@ -1,0 +1,12 @@
+/target/
+/javadoc/
+
+### Eclipse IDE ###
+.settings/
+.classpath
+.project
+
+### Intellij IDEA ####
+.idea/
+
+#products.csv
